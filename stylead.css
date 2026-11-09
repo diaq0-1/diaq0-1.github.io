@@ -199,11 +199,6 @@ body{
     grid-template-rows: 1fr 1fr;
     gap: 30px;
 }
-.img1{
-    /* display: flex; */
-    width: 190px;
-    height: 300px;
-}
 .img1__des{
     color: #202020;
     font-size: 16px;
